@@ -9,6 +9,6 @@
 	<body>
 		<p><b>CALCULADORA IPv4</b></p>
 		<a href="ip.html">Aplicació de càlcul de subxarxes</a>
-		<p>Autor:asix2<p>
+		<p>Autor: asix2<p>
 	</body>
 <html>
