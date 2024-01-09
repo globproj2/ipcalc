@@ -7,7 +7,8 @@
 		</title>
 	</head>
 	<body>
-		<p><b>CALCUALDORA IPv4</b></p>
+		<p><b>CALCULADORA IPv4</b></p>
 		<a href="ip.html">Aplicació de càlcul de subxarxes</a>
+		<p>Autor:asix2<p>
 	</body>
 <html>
