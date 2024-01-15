@@ -9,6 +9,9 @@
 	<body>
 		<p><b>CALCULADORA IPv4</b></p>
 		<a href="ip.html">Aplicació de càlcul de subxarxes</a>
-		<p>Autor:  asix2<p>
+		<p>Autor: globproj2<p>
+                <?php
+                    echo date("l jS \of F Y h:i:s A") . "<br>";
+                ?>
 	</body>
 <html>
